@@ -1,0 +1,23 @@
+repositories:
+    tesseract/aspen:
+        type: git
+        url: https://github.com/Simon248/cell_asp.git
+        version: main
+
+    tesseract/cogniman:
+        type: git
+        url: https://github.com/Simon248/cell_cogniman.git
+        version: main
+    
+    tesseract/planner/src/planner_client:
+        type: git
+        url: https://github.com/Simon248/planner_client.git
+        version: main
+    
+    tesseract/planner/src/planning_server:
+        type: git
+        url: https://github.com/Simon248/planner_client.git
+        version: main   
+    
+
+
