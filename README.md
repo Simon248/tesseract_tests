@@ -15,3 +15,4 @@ make `vcs import < dep.repo` and you will have 3 workspace :
     - a package for the client
     - Of course this need for tesseract overlay !
 
+I will add later a Wp with a gantry+6 axis
